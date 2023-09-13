@@ -1,9 +1,4 @@
-# SmartCalc_1.0
-Smart calculator with the ability to graph functions, loan and depository calculators.
 # SmartCalc v1.0
-
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/MAxcabZjBPmTmhPv5)
 
 Implementation of SmartCalc v1.0.
 
